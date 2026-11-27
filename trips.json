@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "username": "spandana",
+        "date": "2026-11-23 22:23:11",
+        "vehicle": "Bike",
+        "fuel": "Petrol",
+        "distance": 100.0,
+        "mileage": 20.0,
+        "fuel_price": 100.0,
+        "fuel_used": 5.0,
+        "total_cost": 500.0,
+        "cost_per_km": 5.0
+    }
+]
